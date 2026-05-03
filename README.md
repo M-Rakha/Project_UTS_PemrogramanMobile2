@@ -5,7 +5,7 @@
 # KELAS : I241C
 
 # STORYBOARD
-[gambar](https://github.com/M-Rakha/Project_UTS_PemrogramanMobile2/blob/main/image/STORYBOARD.png?raw=true)
+![gambar](https://github.com/M-Rakha/Project_UTS_PemrogramanMobile2/blob/main/image/STORYBOARD.png?raw=true)
 
 # MOCKUP
-[gambar](
+![gambar](
